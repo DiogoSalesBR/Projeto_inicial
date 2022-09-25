@@ -3,7 +3,6 @@ n1=float(input('Nota 1°Bimestre: '))
 n2=float(input('Nota 2°Bimestre: '))
 n3=float(input('Nota 3° Bimestre: '))
 n4=float(input('Nota do 4°Bimestre: '))
-#me=n1+n2+n3+n4/4 #DEPOIS VER SE DESATIVANDO ESSA LINHA VAI RODAR CERTO!
 st=n1+n2+n3+n4
 media_aprovado = 7
 media_reprovado = 6.9
